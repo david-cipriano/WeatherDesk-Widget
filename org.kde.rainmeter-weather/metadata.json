@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+      "License": "CC BY-NC-SA 3.0",
+      "Authors": [
+          {
+              "Name": "DAC"
+          }
+      ],
+      "Category": "Weather",
+      "Description": "Plasma 6 Widget - Rainmeter port.\n\nOriginal Rainmeter skin by xenium.",
+      "Icon": "weather-clear-symbolic",
+      "Id": "org.kde.rainmeter-weather",
+      "Name": "Rainmeter WeatherDesk",
+      "Version": "1.0"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
