@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256"
+     aria-label="Warning"
+     role="img">
+      <path d="M128 24 L240 224 H16 Z"
+            fill="#FACC15"
+            stroke="#111827"
+            stroke-width="10"
+            stroke-linejoin="round"/>
+      <rect x="120" y="84" width="16" height="84" rx="8" fill="#111827"/>
+      <circle cx="128" cy="190" r="10" fill="#111827"/>
+</svg>
